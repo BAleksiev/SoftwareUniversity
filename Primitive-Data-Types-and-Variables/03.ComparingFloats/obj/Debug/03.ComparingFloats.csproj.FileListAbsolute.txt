@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2013\Projects\Primitive-Data-Types-and-Variables\03.ComparingFloats\bin\Debug\03.ComparingFloats.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Primitive-Data-Types-and-Variables\03.ComparingFloats\bin\Debug\03.ComparingFloats.exe
+c:\users\user\documents\visual studio 2013\Projects\Primitive-Data-Types-and-Variables\03.ComparingFloats\bin\Debug\03.ComparingFloats.pdb
+c:\users\user\documents\visual studio 2013\Projects\Primitive-Data-Types-and-Variables\03.ComparingFloats\obj\Debug\03.ComparingFloats.exe
+c:\users\user\documents\visual studio 2013\Projects\Primitive-Data-Types-and-Variables\03.ComparingFloats\obj\Debug\03.ComparingFloats.pdb

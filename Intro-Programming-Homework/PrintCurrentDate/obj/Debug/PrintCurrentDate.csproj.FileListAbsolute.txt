@@ -1,0 +1,11 @@
+c:\users\sl1pkn07\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintCurrentDate\bin\Debug\PrintCurrentDate.exe.config
+c:\users\sl1pkn07\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintCurrentDate\bin\Debug\PrintCurrentDate.exe
+c:\users\sl1pkn07\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintCurrentDate\bin\Debug\PrintCurrentDate.pdb
+c:\users\sl1pkn07\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintCurrentDate\obj\Debug\PrintCurrentDate.exe
+c:\users\sl1pkn07\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintCurrentDate\obj\Debug\PrintCurrentDate.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintCurrentDate\bin\Debug\PrintCurrentDate.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintCurrentDate\obj\Debug\PrintCurrentDate.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintCurrentDate\obj\Debug\PrintCurrentDate.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintCurrentDate\bin\Debug\PrintCurrentDate.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintCurrentDate\bin\Debug\PrintCurrentDate.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintCurrentDate\obj\Debug\PrintCurrentDate.csprojResolveAssemblyReference.cache

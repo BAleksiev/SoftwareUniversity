@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\HellpCSharp\bin\Debug\HellpCSharp.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\HellpCSharp\bin\Debug\HellpCSharp.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\HellpCSharp\bin\Debug\HellpCSharp.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\HellpCSharp\obj\Debug\HellpCSharp.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\HellpCSharp\obj\Debug\HellpCSharp.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\HellpCSharp\obj\Debug\HellpCSharp.pdb

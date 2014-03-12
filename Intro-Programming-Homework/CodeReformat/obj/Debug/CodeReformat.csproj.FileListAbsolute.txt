@@ -1,0 +1,7 @@
+c:\users\sl1pkn07\documents\visual studio 2013\Projects\Intro-Programming-Homework\CodeReformat\bin\Debug\CodeReformat.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\CodeReformat\bin\Debug\CodeReformat.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\CodeReformat\bin\Debug\CodeReformat.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\CodeReformat\bin\Debug\CodeReformat.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\CodeReformat\obj\Debug\CodeReformat.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\CodeReformat\obj\Debug\CodeReformat.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\CodeReformat\obj\Debug\CodeReformat.pdb

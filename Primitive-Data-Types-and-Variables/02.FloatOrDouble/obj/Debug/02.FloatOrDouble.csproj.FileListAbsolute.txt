@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2013\Projects\Primitive-Data-Types-and-Variables\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Primitive-Data-Types-and-Variables\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.exe
+c:\users\user\documents\visual studio 2013\Projects\Primitive-Data-Types-and-Variables\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.pdb
+c:\users\user\documents\visual studio 2013\Projects\Primitive-Data-Types-and-Variables\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.exe
+c:\users\user\documents\visual studio 2013\Projects\Primitive-Data-Types-and-Variables\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.pdb

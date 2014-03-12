@@ -1,0 +1,12 @@
+c:\users\sl1pkn07\documents\visual studio 2013\Projects\Intro-Programming-Homework\NumberSequence\bin\Debug\NumberSequence.exe.config
+c:\users\sl1pkn07\documents\visual studio 2013\Projects\Intro-Programming-Homework\NumberSequence\bin\Debug\NumberSequence.exe
+c:\users\sl1pkn07\documents\visual studio 2013\Projects\Intro-Programming-Homework\NumberSequence\bin\Debug\NumberSequence.pdb
+c:\users\sl1pkn07\documents\visual studio 2013\Projects\Intro-Programming-Homework\NumberSequence\obj\Debug\NumberSequence.exe
+c:\users\sl1pkn07\documents\visual studio 2013\Projects\Intro-Programming-Homework\NumberSequence\obj\Debug\NumberSequence.pdb
+c:\users\sl1pkn07\documents\visual studio 2013\Projects\Intro-Programming-Homework\NumberSequence\obj\Debug\NumberSequence.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\NumberSequence\bin\Debug\NumberSequence.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\NumberSequence\obj\Debug\NumberSequence.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\NumberSequence\obj\Debug\NumberSequence.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\NumberSequence\bin\Debug\NumberSequence.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\NumberSequence\bin\Debug\NumberSequence.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\NumberSequence\obj\Debug\NumberSequence.csprojResolveAssemblyReference.cache

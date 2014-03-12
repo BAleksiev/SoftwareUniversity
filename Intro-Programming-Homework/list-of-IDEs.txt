@@ -1,0 +1,14 @@
+1. Netbeans
+NetBeans is an integrated development environment (IDE) for developing primarily with Java, but also with other languages, in particular PHP, C/C++, and HTML5. Netbeans is extremely extensible via its plugin-centric design, allowing you to add additional language syntax support and libraries, among other things. Netbeans is free under the Common Development and Distribution License (CDDL) v1.0 and GNU General Public License (GPL) v2.
+
+2. Visual Studio
+Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft. It is used to develop console and graphical user interface applications along with Windows Forms or WPF applications, web sites, web applications, web services, and also Windows Store apps in both native code together with managed code.
+
+3. Eclipse
+In computer programming, Eclipse is an integrated development environment (IDE). It contains a base workspace and an extensible plug-in system for customizing the environment. Written mostly in Java, Eclipse can be used to develop applications. Eclipse is free under the terms and conditions of the Eclipse Foundation Software User Agreement unless otherwise specified.
+
+4. Notepad++
+Notepad++ is a text editor and source code editor for Windows. It aims to be a lightweight and robust editor for a variety of programming and scripting languages. One advantage of Notepad++ over the built-in Windows text editor Notepad, is that Notepad++ supports tabbed editing, which allows working with multiple open files. Notepad++ opens large files significantly faster. Notepad++ is distributed as free software.
+
+5. Code::Blocks
+Code::Blocks is a free and open source, cross-platform IDE which supports multiple compilers including GCC and Visual C++. It is developed in C++ using wxWidgets as the GUI toolkit. Using a plugin architecture, its capabilities and features are defined by the provided plugins.

@@ -1,0 +1,1 @@
+c:\users\user\documents\visual studio 2013\Projects\Primitive-Data-Types-and-Variables\04.VarInHexFormat\bin\Debug\04.VarInHexFormat.exe.config

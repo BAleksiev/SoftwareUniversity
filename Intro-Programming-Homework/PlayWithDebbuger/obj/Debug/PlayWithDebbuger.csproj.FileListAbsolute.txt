@@ -1,0 +1,5 @@
+c:\users\sl1pkn07\documents\visual studio 2013\Projects\Intro-Programming-Homework\PlayWithDebbuger\bin\Debug\PlayWithDebbuger.exe.config
+c:\users\sl1pkn07\documents\visual studio 2013\Projects\Intro-Programming-Homework\PlayWithDebbuger\bin\Debug\PlayWithDebbuger.exe
+c:\users\sl1pkn07\documents\visual studio 2013\Projects\Intro-Programming-Homework\PlayWithDebbuger\bin\Debug\PlayWithDebbuger.pdb
+c:\users\sl1pkn07\documents\visual studio 2013\Projects\Intro-Programming-Homework\PlayWithDebbuger\obj\Debug\PlayWithDebbuger.exe
+c:\users\sl1pkn07\documents\visual studio 2013\Projects\Intro-Programming-Homework\PlayWithDebbuger\obj\Debug\PlayWithDebbuger.pdb
