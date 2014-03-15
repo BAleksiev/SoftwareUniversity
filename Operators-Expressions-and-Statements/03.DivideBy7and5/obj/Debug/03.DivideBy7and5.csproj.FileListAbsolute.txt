@@ -1,0 +1,2 @@
+c:\users\user\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\03.DivideBy7and5\bin\Debug\03.DivideBy7and5.exe.config
+D:\xampp\htdocs\SoftwareUniversity\Operators-Expressions-and-Statements\03.DivideBy7and5\bin\Debug\03.DivideBy7and5.exe.config

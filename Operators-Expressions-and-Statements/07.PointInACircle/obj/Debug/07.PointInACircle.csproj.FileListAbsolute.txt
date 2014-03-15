@@ -1,0 +1,1 @@
+D:\xampp\htdocs\SoftwareUniversity\Operators-Expressions-and-Statements\07.PointInACircle\bin\Debug\07.PointInACircle.exe.config
