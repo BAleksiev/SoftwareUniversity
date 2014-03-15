@@ -3,3 +3,6 @@ c:\users\user\documents\visual studio 2013\Projects\Primitive-Data-Types-and-Var
 c:\users\user\documents\visual studio 2013\Projects\Primitive-Data-Types-and-Variables\14.PrintASCIITable\bin\Debug\14.PrintASCIITable.pdb
 c:\users\user\documents\visual studio 2013\Projects\Primitive-Data-Types-and-Variables\14.PrintASCIITable\obj\Debug\14.PrintASCIITable.exe
 c:\users\user\documents\visual studio 2013\Projects\Primitive-Data-Types-and-Variables\14.PrintASCIITable\obj\Debug\14.PrintASCIITable.pdb
+D:\xampp\htdocs\SoftwareUniversity\Primitive-Data-Types-and-Variables\14.PrintASCIITable\bin\Debug\14.PrintASCIITable.exe.config
+D:\xampp\htdocs\SoftwareUniversity\Primitive-Data-Types-and-Variables\14.PrintASCIITable\obj\Debug\14.PrintASCIITable.exe
+D:\xampp\htdocs\SoftwareUniversity\Primitive-Data-Types-and-Variables\14.PrintASCIITable\obj\Debug\14.PrintASCIITable.pdb

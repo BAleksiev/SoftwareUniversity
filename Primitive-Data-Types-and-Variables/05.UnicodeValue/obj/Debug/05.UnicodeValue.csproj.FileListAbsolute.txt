@@ -4,3 +4,9 @@ c:\users\user\documents\visual studio 2013\Projects\Primitive-Data-Types-and-Var
 c:\users\user\documents\visual studio 2013\Projects\Primitive-Data-Types-and-Variables\05.UnicodeValue\obj\Debug\05.UnicodeValue.csprojResolveAssemblyReference.cache
 c:\users\user\documents\visual studio 2013\Projects\Primitive-Data-Types-and-Variables\05.UnicodeValue\obj\Debug\05.UnicodeValue.exe
 c:\users\user\documents\visual studio 2013\Projects\Primitive-Data-Types-and-Variables\05.UnicodeValue\obj\Debug\05.UnicodeValue.pdb
+D:\xampp\htdocs\SoftwareUniversity\Primitive-Data-Types-and-Variables\05.UnicodeValue\bin\Debug\05.UnicodeValue.exe.config
+D:\xampp\htdocs\SoftwareUniversity\Primitive-Data-Types-and-Variables\05.UnicodeValue\obj\Debug\05.UnicodeValue.exe
+D:\xampp\htdocs\SoftwareUniversity\Primitive-Data-Types-and-Variables\05.UnicodeValue\obj\Debug\05.UnicodeValue.pdb
+D:\xampp\htdocs\SoftwareUniversity\Primitive-Data-Types-and-Variables\05.UnicodeValue\bin\Debug\05.UnicodeValue.exe
+D:\xampp\htdocs\SoftwareUniversity\Primitive-Data-Types-and-Variables\05.UnicodeValue\bin\Debug\05.UnicodeValue.pdb
+D:\xampp\htdocs\SoftwareUniversity\Primitive-Data-Types-and-Variables\05.UnicodeValue\obj\Debug\05.UnicodeValue.csprojResolveAssemblyReference.cache

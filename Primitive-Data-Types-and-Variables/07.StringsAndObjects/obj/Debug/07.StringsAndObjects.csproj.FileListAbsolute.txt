@@ -1,1 +1,2 @@
 c:\users\user\documents\visual studio 2013\Projects\Primitive-Data-Types-and-Variables\07.StringsAndObjects\bin\Debug\07.StringsAndObjects.exe.config
+D:\xampp\htdocs\SoftwareUniversity\Primitive-Data-Types-and-Variables\07.StringsAndObjects\bin\Debug\07.StringsAndObjects.exe.config
