@@ -1,1 +1,5 @@
 D:\xampp\htdocs\SoftwareUniversity\Operators-Expressions-and-Statements\06.FourDigitNumber\bin\Debug\06.FourDigitNumber.exe.config
+D:\xampp\htdocs\SoftwareUniversity\Operators-Expressions-and-Statements\06.FourDigitNumber\bin\Debug\06.FourDigitNumber.exe
+D:\xampp\htdocs\SoftwareUniversity\Operators-Expressions-and-Statements\06.FourDigitNumber\bin\Debug\06.FourDigitNumber.pdb
+D:\xampp\htdocs\SoftwareUniversity\Operators-Expressions-and-Statements\06.FourDigitNumber\obj\Debug\06.FourDigitNumber.exe
+D:\xampp\htdocs\SoftwareUniversity\Operators-Expressions-and-Statements\06.FourDigitNumber\obj\Debug\06.FourDigitNumber.pdb

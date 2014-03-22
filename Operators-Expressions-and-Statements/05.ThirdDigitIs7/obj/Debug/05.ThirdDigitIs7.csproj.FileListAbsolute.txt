@@ -1,1 +1,5 @@
 D:\xampp\htdocs\SoftwareUniversity\Operators-Expressions-and-Statements\05.ThirdDigitIs7\bin\Debug\05.ThirdDigitIs7.exe.config
+D:\xampp\htdocs\SoftwareUniversity\Operators-Expressions-and-Statements\05.ThirdDigitIs7\bin\Debug\05.ThirdDigitIs7.exe
+D:\xampp\htdocs\SoftwareUniversity\Operators-Expressions-and-Statements\05.ThirdDigitIs7\bin\Debug\05.ThirdDigitIs7.pdb
+D:\xampp\htdocs\SoftwareUniversity\Operators-Expressions-and-Statements\05.ThirdDigitIs7\obj\Debug\05.ThirdDigitIs7.exe
+D:\xampp\htdocs\SoftwareUniversity\Operators-Expressions-and-Statements\05.ThirdDigitIs7\obj\Debug\05.ThirdDigitIs7.pdb

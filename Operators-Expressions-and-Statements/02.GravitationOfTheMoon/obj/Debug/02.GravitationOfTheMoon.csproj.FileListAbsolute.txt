@@ -3,3 +3,8 @@ c:\users\user\documents\visual studio 2013\Projects\Operators-Expressions-and-St
 c:\users\user\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\02.GravitationOfTheMoon\bin\Debug\02.GravitationOfTheMoon.pdb
 c:\users\user\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\02.GravitationOfTheMoon\obj\Debug\02.GravitationOfTheMoon.exe
 c:\users\user\documents\visual studio 2013\Projects\Operators-Expressions-and-Statements\02.GravitationOfTheMoon\obj\Debug\02.GravitationOfTheMoon.pdb
+D:\xampp\htdocs\SoftwareUniversity\Operators-Expressions-and-Statements\02.GravitationOfTheMoon\bin\Debug\02.GravitationOfTheMoon.exe.config
+D:\xampp\htdocs\SoftwareUniversity\Operators-Expressions-and-Statements\02.GravitationOfTheMoon\obj\Debug\02.GravitationOfTheMoon.exe
+D:\xampp\htdocs\SoftwareUniversity\Operators-Expressions-and-Statements\02.GravitationOfTheMoon\obj\Debug\02.GravitationOfTheMoon.pdb
+D:\xampp\htdocs\SoftwareUniversity\Operators-Expressions-and-Statements\02.GravitationOfTheMoon\bin\Debug\02.GravitationOfTheMoon.exe
+D:\xampp\htdocs\SoftwareUniversity\Operators-Expressions-and-Statements\02.GravitationOfTheMoon\bin\Debug\02.GravitationOfTheMoon.pdb

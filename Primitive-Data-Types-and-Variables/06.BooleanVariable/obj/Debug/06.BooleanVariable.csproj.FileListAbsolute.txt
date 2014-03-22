@@ -4,3 +4,6 @@ c:\users\user\documents\visual studio 2013\Projects\Primitive-Data-Types-and-Var
 c:\users\user\documents\visual studio 2013\Projects\Primitive-Data-Types-and-Variables\06.BooleanVariable\obj\Debug\06.BooleanVariable.csprojResolveAssemblyReference.cache
 c:\users\user\documents\visual studio 2013\Projects\Primitive-Data-Types-and-Variables\06.BooleanVariable\obj\Debug\06.BooleanVariable.exe
 c:\users\user\documents\visual studio 2013\Projects\Primitive-Data-Types-and-Variables\06.BooleanVariable\obj\Debug\06.BooleanVariable.pdb
+D:\xampp\htdocs\SoftwareUniversity\Primitive-Data-Types-and-Variables\06.BooleanVariable\bin\Debug\06.BooleanVariable.exe.config
+D:\xampp\htdocs\SoftwareUniversity\Primitive-Data-Types-and-Variables\06.BooleanVariable\obj\Debug\06.BooleanVariable.exe
+D:\xampp\htdocs\SoftwareUniversity\Primitive-Data-Types-and-Variables\06.BooleanVariable\obj\Debug\06.BooleanVariable.pdb

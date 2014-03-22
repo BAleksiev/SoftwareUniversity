@@ -1,1 +1,6 @@
 c:\users\user\documents\visual studio 2013\Projects\Primitive-Data-Types-and-Variables\04.VarInHexFormat\bin\Debug\04.VarInHexFormat.exe.config
+D:\xampp\htdocs\SoftwareUniversity\Primitive-Data-Types-and-Variables\04.VarInHexFormat\bin\Debug\04.VarInHexFormat.exe.config
+D:\xampp\htdocs\SoftwareUniversity\Primitive-Data-Types-and-Variables\04.VarInHexFormat\bin\Debug\04.VarInHexFormat.exe
+D:\xampp\htdocs\SoftwareUniversity\Primitive-Data-Types-and-Variables\04.VarInHexFormat\bin\Debug\04.VarInHexFormat.pdb
+D:\xampp\htdocs\SoftwareUniversity\Primitive-Data-Types-and-Variables\04.VarInHexFormat\obj\Debug\04.VarInHexFormat.exe
+D:\xampp\htdocs\SoftwareUniversity\Primitive-Data-Types-and-Variables\04.VarInHexFormat\obj\Debug\04.VarInHexFormat.pdb

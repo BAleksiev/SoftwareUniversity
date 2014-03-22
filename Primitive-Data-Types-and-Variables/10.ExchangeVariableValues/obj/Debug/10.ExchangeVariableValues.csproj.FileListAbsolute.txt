@@ -3,3 +3,8 @@ c:\users\user\documents\visual studio 2013\Projects\Primitive-Data-Types-and-Var
 c:\users\user\documents\visual studio 2013\Projects\Primitive-Data-Types-and-Variables\10.ExchangeVariableValues\bin\Debug\10.ExchangeVariableValues.pdb
 c:\users\user\documents\visual studio 2013\Projects\Primitive-Data-Types-and-Variables\10.ExchangeVariableValues\obj\Debug\10.ExchangeVariableValues.exe
 c:\users\user\documents\visual studio 2013\Projects\Primitive-Data-Types-and-Variables\10.ExchangeVariableValues\obj\Debug\10.ExchangeVariableValues.pdb
+D:\xampp\htdocs\SoftwareUniversity\Primitive-Data-Types-and-Variables\10.ExchangeVariableValues\bin\Debug\10.ExchangeVariableValues.exe.config
+D:\xampp\htdocs\SoftwareUniversity\Primitive-Data-Types-and-Variables\10.ExchangeVariableValues\obj\Debug\10.ExchangeVariableValues.exe
+D:\xampp\htdocs\SoftwareUniversity\Primitive-Data-Types-and-Variables\10.ExchangeVariableValues\obj\Debug\10.ExchangeVariableValues.pdb
+D:\xampp\htdocs\SoftwareUniversity\Primitive-Data-Types-and-Variables\10.ExchangeVariableValues\bin\Debug\10.ExchangeVariableValues.exe
+D:\xampp\htdocs\SoftwareUniversity\Primitive-Data-Types-and-Variables\10.ExchangeVariableValues\bin\Debug\10.ExchangeVariableValues.pdb

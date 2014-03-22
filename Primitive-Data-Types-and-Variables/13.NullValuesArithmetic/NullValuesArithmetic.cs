@@ -11,12 +11,12 @@ class NullValuesArithmetic
 
         nullInt += 7;
         nullReal += 4.5;
-        Console.WriteLine("Number + null value: " + nullInt);
-        Console.WriteLine("Number + null value: " + nullReal);
+        Console.WriteLine("Number + null value: {0}", nullInt);
+        Console.WriteLine("Number + null value: {0}", nullReal);
 
         nullInt = 7;
         nullReal = 4.5;
-        Console.WriteLine("Number value: " + nullInt);
-        Console.WriteLine("Number value: " + nullReal);
+        Console.WriteLine("Number value: {0}", nullInt);
+        Console.WriteLine("Number value: {0}", nullReal);
     }
 }

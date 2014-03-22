@@ -12,6 +12,13 @@ class PointInACircle
 
         bool inside = (x * x) + (y * y) <= (2 * 2);
 
-        Console.WriteLine(inside);
+        if(inside == true)
+        {
+            Console.WriteLine("{0}. Coordinates x={1}, y={2} are in circle.", inside, x, y);
+        }
+        else
+        {
+            Console.WriteLine("{0}. Coordinates x={1}, y={2} are not in circle.", inside, x, y);
+        }
     }
 }

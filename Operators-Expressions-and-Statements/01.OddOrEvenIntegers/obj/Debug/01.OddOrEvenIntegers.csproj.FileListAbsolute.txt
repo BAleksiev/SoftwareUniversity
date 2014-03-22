@@ -7,3 +7,6 @@ c:\users\user\documents\visual studio 2013\Projects\Operators-Expressions-and-St
 D:\xampp\htdocs\SoftwareUniversity\Operators-Expressions-and-Statements\01.OddOrEvenIntegers\bin\Debug\01.OddOrEvenIntegers.exe.config
 D:\xampp\htdocs\SoftwareUniversity\Operators-Expressions-and-Statements\01.OddOrEvenIntegers\obj\Debug\01.OddOrEvenIntegers.exe
 D:\xampp\htdocs\SoftwareUniversity\Operators-Expressions-and-Statements\01.OddOrEvenIntegers\obj\Debug\01.OddOrEvenIntegers.pdb
+D:\xampp\htdocs\SoftwareUniversity\Operators-Expressions-and-Statements\01.OddOrEvenIntegers\bin\Debug\01.OddOrEvenIntegers.exe
+D:\xampp\htdocs\SoftwareUniversity\Operators-Expressions-and-Statements\01.OddOrEvenIntegers\bin\Debug\01.OddOrEvenIntegers.pdb
+D:\xampp\htdocs\SoftwareUniversity\Operators-Expressions-and-Statements\01.OddOrEvenIntegers\obj\Debug\01.OddOrEvenIntegers.csprojResolveAssemblyReference.cache

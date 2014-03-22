@@ -3,3 +3,6 @@ c:\users\user\documents\visual studio 2013\Projects\Primitive-Data-Types-and-Var
 c:\users\user\documents\visual studio 2013\Projects\Primitive-Data-Types-and-Variables\11.EmployeeData\bin\Debug\11.EmployeeData.pdb
 c:\users\user\documents\visual studio 2013\Projects\Primitive-Data-Types-and-Variables\11.EmployeeData\obj\Debug\11.EmployeeData.exe
 c:\users\user\documents\visual studio 2013\Projects\Primitive-Data-Types-and-Variables\11.EmployeeData\obj\Debug\11.EmployeeData.pdb
+D:\xampp\htdocs\SoftwareUniversity\Primitive-Data-Types-and-Variables\11.EmployeeData\bin\Debug\11.EmployeeData.exe.config
+D:\xampp\htdocs\SoftwareUniversity\Primitive-Data-Types-and-Variables\11.EmployeeData\obj\Debug\11.EmployeeData.exe
+D:\xampp\htdocs\SoftwareUniversity\Primitive-Data-Types-and-Variables\11.EmployeeData\obj\Debug\11.EmployeeData.pdb

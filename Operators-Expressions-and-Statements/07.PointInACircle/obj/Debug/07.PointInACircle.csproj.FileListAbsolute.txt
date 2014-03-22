@@ -1,6 +1,5 @@
 D:\xampp\htdocs\SoftwareUniversity\Operators-Expressions-and-Statements\07.PointInACircle\bin\Debug\07.PointInACircle.exe.config
 D:\xampp\htdocs\SoftwareUniversity\Operators-Expressions-and-Statements\07.PointInACircle\bin\Debug\07.PointInACircle.exe
 D:\xampp\htdocs\SoftwareUniversity\Operators-Expressions-and-Statements\07.PointInACircle\bin\Debug\07.PointInACircle.pdb
-D:\xampp\htdocs\SoftwareUniversity\Operators-Expressions-and-Statements\07.PointInACircle\obj\Debug\07.PointInACircle.csprojResolveAssemblyReference.cache
 D:\xampp\htdocs\SoftwareUniversity\Operators-Expressions-and-Statements\07.PointInACircle\obj\Debug\07.PointInACircle.exe
 D:\xampp\htdocs\SoftwareUniversity\Operators-Expressions-and-Statements\07.PointInACircle\obj\Debug\07.PointInACircle.pdb

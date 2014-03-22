@@ -13,14 +13,21 @@ class InsideCircleOutsideRectangle
         int rectangleHeight = 2;
 
         Console.Write("Enter coordinate X: ");
-        float x = float.Parse(Console.ReadLine());
+        double x = double.Parse(Console.ReadLine());
 
         Console.Write("Enter coordinate Y: ");
-        float y = float.Parse(Console.ReadLine());
+        double y = double.Parse(Console.ReadLine());
 
         bool insideCircle = Math.Pow((x - centerX), 2) + Math.Pow((y - centerX), 2) <= Math.Pow(circleRadius, 2);
-        bool outsideRectangle = x >= rectangleLeft && x <= (rectangleLeft + rectangleWidth) && y <= rectangleTop && y >= (rectangleTop - rectangleHeight);
+        bool outsideRectangle = !((x <= 5 && x >= -1) && (y <= 1 && y >= -1));
 
-        Console.WriteLine(insideCircle);
+        if(insideCircle && outsideRectangle)
+        {
+            Console.WriteLine("Yes");
+        }
+        else
+        {
+            Console.WriteLine("No");
+        }
     }
 }

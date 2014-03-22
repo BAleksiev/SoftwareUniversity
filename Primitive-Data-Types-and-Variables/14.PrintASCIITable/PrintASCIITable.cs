@@ -1,9 +1,12 @@
 ﻿using System;
+using System.Text;
 
 class PrintASCIITable
 {
     static void Main(string[] args)
     {
+        Console.OutputEncoding = Encoding.Unicode;
+
         Console.WriteLine("   Dec\t|  Hex\t| Char");
         Console.WriteLine("----------------------");
 

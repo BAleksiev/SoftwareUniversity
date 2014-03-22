@@ -2,6 +2,5 @@ c:\users\user\documents\visual studio 2013\Projects\Operators-Expressions-and-St
 D:\xampp\htdocs\SoftwareUniversity\Operators-Expressions-and-Statements\03.DivideBy7and5\bin\Debug\03.DivideBy7and5.exe.config
 D:\xampp\htdocs\SoftwareUniversity\Operators-Expressions-and-Statements\03.DivideBy7and5\bin\Debug\03.DivideBy7and5.exe
 D:\xampp\htdocs\SoftwareUniversity\Operators-Expressions-and-Statements\03.DivideBy7and5\bin\Debug\03.DivideBy7and5.pdb
-D:\xampp\htdocs\SoftwareUniversity\Operators-Expressions-and-Statements\03.DivideBy7and5\obj\Debug\03.DivideBy7and5.csprojResolveAssemblyReference.cache
 D:\xampp\htdocs\SoftwareUniversity\Operators-Expressions-and-Statements\03.DivideBy7and5\obj\Debug\03.DivideBy7and5.exe
 D:\xampp\htdocs\SoftwareUniversity\Operators-Expressions-and-Statements\03.DivideBy7and5\obj\Debug\03.DivideBy7and5.pdb

@@ -5,7 +5,7 @@ class IsoscelesTriangle
 {
     static void Main()
     {
-        Console.OutputEncoding = System.Text.Encoding.Unicode;
+        Console.OutputEncoding = Encoding.UTF8;
 
         char symbol = '\u00A9';
 
