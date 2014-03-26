@@ -13,23 +13,10 @@ class ModifyBit
         Console.Write("Enter position: ");
         int p = int.Parse(Console.ReadLine());
 
-        int num2;
+        int mask;
 
-        if (v == 1)
-        {
-            num2 = (int)(n >> p) | v;
-        }
-        else if(v == 0)
-        {
-            num2 = (int)(n >> p) & v;
-        }
-        else
-        {
-            num2 = (int)(n >> p) & 0;
-        }
+        int result = (int)~(v << p) & n;
 
-        int result = (int)(num2 << p) | n;
-
-        Console.WriteLine(result);
+        Console.WriteLine(num2);
     }
 }
