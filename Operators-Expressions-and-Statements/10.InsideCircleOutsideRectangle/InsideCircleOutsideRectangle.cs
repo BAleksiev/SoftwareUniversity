@@ -18,8 +18,8 @@ class InsideCircleOutsideRectangle
         Console.Write("Enter coordinate Y: ");
         double y = double.Parse(Console.ReadLine());
 
-        bool insideCircle = Math.Pow((x - centerX), 2) + Math.Pow((y - centerX), 2) <= Math.Pow(circleRadius, 2);
-        bool outsideRectangle = !((x <= 5 && x >= -1) && (y <= 1 && y >= -1));
+        bool insideCircle = Math.Pow((x - centerX), 2) + Math.Pow((y - centerY), 2) <= Math.Pow(circleRadius, 2);
+        bool outsideRectangle = !((x <= (rectangleLeft + rectangleWidth) && x >= rectangleLeft) && (y <= rectangleTop && y >= (rectangleTop - rectangleHeight)));
 
         if(insideCircle && outsideRectangle)
         {
