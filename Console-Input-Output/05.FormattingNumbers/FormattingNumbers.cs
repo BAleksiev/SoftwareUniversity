@@ -17,6 +17,14 @@ class FormattingNumbers
         Console.Write("enter floating point number (c): ");
         double c = double.Parse(Console.ReadLine());
 
-        Console.WriteLine("|{0,-10:X}|{1}|{2,10:F2}|{3,-10:F3}|", a, Convert.ToString(a, 2).PadLeft(10, '0'), b, c);
+        Console.Write("|{0,-10:X}|{1}|", a, Convert.ToString(a, 2).PadLeft(10, '0'));
+
+        bool checkB = Convert.ToString(b).IndexOf(",") != -1;
+        Console.Write(checkB ? "{0,10:F2}" : "{0,10}", b);
+
+        bool checkC = Convert.ToString(c).IndexOf(",") != -1;
+        Console.Write(checkC ? "|{0,-10:F3}|" : "|{0,-10}|", c);
+
+        Console.WriteLine();
     }
 }

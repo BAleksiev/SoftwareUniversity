@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.FibonacciNumbers", "01.FibonacciNumbers\01.FibonacciNumbers.csproj", "{11715083-312F-4D99-8108-10FA5C5AC765}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.PrimeChecker", "02.PrimeChecker\02.PrimeChecker.csproj", "{AD99016A-12C8-4078-AC6B-FF8DC5812526}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11715083-312F-4D99-8108-10FA5C5AC765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11715083-312F-4D99-8108-10FA5C5AC765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11715083-312F-4D99-8108-10FA5C5AC765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11715083-312F-4D99-8108-10FA5C5AC765}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD99016A-12C8-4078-AC6B-FF8DC5812526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD99016A-12C8-4078-AC6B-FF8DC5812526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD99016A-12C8-4078-AC6B-FF8DC5812526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD99016A-12C8-4078-AC6B-FF8DC5812526}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

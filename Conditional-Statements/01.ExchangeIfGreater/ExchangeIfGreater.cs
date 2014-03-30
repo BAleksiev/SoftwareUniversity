@@ -5,12 +5,12 @@ class ExchangeIfGreater
     static void Main()
     {
         Console.Write("Enter two numbers in separate lines: ");
-        int a = int.Parse(Console.ReadLine());
-        int b = int.Parse(Console.ReadLine());
+        double a = double.Parse(Console.ReadLine());
+        double b = double.Parse(Console.ReadLine());
 
         if (a > b)
         {
-            int temp = a;
+            double temp = a;
             a = b;
             b = temp;
         }
