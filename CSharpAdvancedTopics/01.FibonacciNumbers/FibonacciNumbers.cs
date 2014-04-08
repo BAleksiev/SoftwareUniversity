@@ -4,7 +4,6 @@ class FibonacciNumbers
 {
     static void Main()
     {
-        Console.Write("Enter positive integer: ");
         int n = int.Parse(Console.ReadLine());
 
         Console.WriteLine(Fib(n));
@@ -16,11 +15,22 @@ class FibonacciNumbers
         ulong secondNum = 1;
         ulong thirdNum = 0;
 
-        for (int i = 2; i <= n; i++)
+        if (n == 0)
         {
-            thirdNum = firstNum + secondNum;
-            firstNum = secondNum;
-            secondNum = thirdNum;
+            return firstNum;
+        }
+        else if (n == 1)
+        {
+            return secondNum;
+        }
+        else
+        {
+            for (int i = 2; i <= n; i++)
+            {
+                thirdNum = firstNum + secondNum;
+                firstNum = secondNum;
+                secondNum = thirdNum;
+            }
         }
 
         return thirdNum;

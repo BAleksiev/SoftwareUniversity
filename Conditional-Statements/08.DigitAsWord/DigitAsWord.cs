@@ -4,45 +4,43 @@ class DigitAsWord
 {
     static void Main()
     {
-        Console.Write("Enter digit (0-9): ");
         string digit = Console.ReadLine();
 
-        switch (int.Parse(digit))
+        switch (digit)
         {
-            case 0:
+            case "0":
                 Console.WriteLine("zero");
                 break;
-            case 1:
+            case "1":
                 Console.WriteLine("one");
                 break;
-            case 2:
+            case "2":
                 Console.WriteLine("two");
                 break;
-            case 3:
+            case "3":
                 Console.WriteLine("three");
                 break;
-            case 4:
+            case "4":
                 Console.WriteLine("four");
                 break;
-            case 5:
+            case "5":
                 Console.WriteLine("five");
                 break;
-            case 6:
+            case "6":
                 Console.WriteLine("six");
                 break;
-            case 7:
+            case "7":
                 Console.WriteLine("seven");
                 break;
-            case 8:
+            case "8":
                 Console.WriteLine("eight");
                 break;
-            case 9:
+            case "9":
                 Console.WriteLine("nine");
                 break;
             default:
                 Console.WriteLine("not a digit");
                 break;
         }
-        Main();
     }
 }

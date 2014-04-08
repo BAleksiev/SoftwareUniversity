@@ -11,28 +11,7 @@ class TheBiggestOfFiveNumbers
         double num4 = double.Parse(Console.ReadLine());
         double num5 = double.Parse(Console.ReadLine());
 
-        double biggestNumber = 0.0d;
-
-        if (num1 > num2 && num1 > num3 && num1 > num4 && num1 > num5)
-        {
-            biggestNumber = num1;
-        }
-        else if (num2 >= num1 && num2 >= num3 && num2 >= num4 && num2 >= num5)
-        {
-            biggestNumber = num2;
-        }
-        else if (num3 >= num1 && num3 >= num2 && num3 >= num4 && num3 >= num5)
-        {
-            biggestNumber = num3;
-        }
-        else if(num4 >= num1 && num4 >= num2 && num4 >= num3 && num4 >= num5)
-        {
-            biggestNumber = num4;
-        }
-        else if(num5 >= num1 && num5 >= num2 && num5 >= num3 && num5 >= num4)
-        {
-            biggestNumber = num5;
-        }
+        double biggestNumber = Math.Max(num1, Math.Max(num2, Math.Max(num3, Math.Max(num4, num5))));
 
         Console.WriteLine("The biggest number is {0}", biggestNumber);
     }

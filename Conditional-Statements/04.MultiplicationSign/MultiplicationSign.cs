@@ -26,6 +26,5 @@ class MultiplicationSign
             Console.Write("-");
         }
         Console.WriteLine();
-        Main();
     }
 }

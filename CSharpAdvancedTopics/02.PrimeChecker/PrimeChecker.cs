@@ -4,11 +4,9 @@ class PrimeChecker
 {
     static void Main()
     {
-        Console.Write("Enter number: ");
         ulong n = ulong.Parse(Console.ReadLine());
 
         Console.WriteLine(IsPrime(n));
-        Main();
     }
 
     static bool IsPrime(ulong n)

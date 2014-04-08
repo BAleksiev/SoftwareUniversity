@@ -16,7 +16,7 @@ class BeerTime
 
         if (DateTime.TryParseExact(timeInput, "hh:mm tt", enUS, DateTimeStyles.None, out timeNow))
         {
-            if (timeNow >= startTime || timeNow <= endTime)
+            if (timeNow >= startTime || timeNow < endTime)
             {
                 Console.WriteLine("beer time");
             }
@@ -29,6 +29,5 @@ class BeerTime
         {
             Console.WriteLine("invalid time");
         }
-        Main();
     }
 }
